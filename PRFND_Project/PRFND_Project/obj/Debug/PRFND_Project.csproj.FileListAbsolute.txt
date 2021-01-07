@@ -1,0 +1,14 @@
+C:\Users\Josh\source\repos\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\PRFND_Project\PRFND_Project\bin\Debug\PRFND_Project.exe.config
+C:\Users\Josh\source\repos\PRFND_Project\PRFND_Project\bin\Debug\PRFND_Project.exe
+C:\Users\Josh\source\repos\PRFND_Project\PRFND_Project\bin\Debug\PRFND_Project.pdb
+C:\Users\Josh\source\repos\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.exe
+C:\Users\Josh\source\repos\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.pdb
+C:\Users\taman\source\repos\PRFND\Joshua PRFND\PRFND_Project\PRFND_Project\bin\Debug\PRFND_Project.exe.config
+C:\Users\taman\source\repos\PRFND\Joshua PRFND\PRFND_Project\PRFND_Project\bin\Debug\PRFND_Project.exe
+C:\Users\taman\source\repos\PRFND\Joshua PRFND\PRFND_Project\PRFND_Project\bin\Debug\PRFND_Project.pdb
+C:\Users\taman\source\repos\PRFND\Joshua PRFND\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.csprojAssemblyReference.cache
+C:\Users\taman\source\repos\PRFND\Joshua PRFND\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.csproj.CoreCompileInputs.cache
+C:\Users\taman\source\repos\PRFND\Joshua PRFND\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.exe
+C:\Users\taman\source\repos\PRFND\Joshua PRFND\PRFND_Project\PRFND_Project\obj\Debug\PRFND_Project.pdb
